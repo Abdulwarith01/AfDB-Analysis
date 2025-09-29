@@ -13,7 +13,7 @@ This project is an exploration data analysis (EDA), exploring historical investm
 ##  Files
 
 - `AfDB_Analysis.ipynb`: Main notebook containing all analyses and visualizations
-- /kaggle/input/african-development-bank-projects-1967-2018/Projects.csv : Folder containing the raw dataset
+- `/kaggle/input/african-development-bank-projects-1967-2018/Projects.csv` : Folder containing the raw dataset
 
 ## Language: Python
 
