@@ -26,7 +26,7 @@ This project is an exploration data analysis (EDA), exploring historical investm
 
 ## Contact
 
-For questions or collaboration, reach out via GitHub or connect on [LinkedIn](www.linkedin.com/in/ayodeji-abdulwarith/).
+For questions or collaboration, reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/ayodeji-abdulwarith/).
 
 ---
 
