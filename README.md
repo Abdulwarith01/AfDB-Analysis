@@ -1,4 +1,4 @@
-# African Development Bank (AfDB) Project Analysis
+# Portfolio Project: African Development Bank (AfDB) Project Analysis
 
 This project is an exploration data analysis (EDA), exploring historical investment patterns of the African Development Bank (AfDB) from 1967 to 2020, using the AfDB publicly available data.
 
